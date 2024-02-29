@@ -1,0 +1,27 @@
+<!doctype html>
+<Html>
+  <cabeça>
+    <link Rel="folha de estilo" HREF="style.css">
+    <meta charset="UTF-8">
+    <meta nome="Viewport" conteúdo="width=largura do dispositivo" />
+    <título>GIOCONDA</título>
+  </cabeça>
+
+  <corpo>
+    <Div classe="div-contêiner">
+      <Div classe="div-título">
+        <h1>UNIASSELVI</h1>
+      </Div>
+
+      <Div classe="div-entrada">
+        <entrada tipo="Texto" classe="entrada" Necessário></Br>
+      </Div>
+      
+      <Div classe="div-botão">
+        <botão classe="btn-pesquisa"> PESQUISA </botão>
+      </Div>
+     
+    </Div>
+ </corpo>
+
+</Html>
